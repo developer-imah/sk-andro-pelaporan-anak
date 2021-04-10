@@ -6,6 +6,7 @@ import android.content.Context
 class ApplicationImpl : Application() {
     override fun onCreate() {
         super.onCreate()
+        // asdasdasdasdasd
         appContext = applicationContext
     }
 
