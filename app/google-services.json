@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "431072597367",
+    "project_id": "laporan-anak-apps-imh",
+    "storage_bucket": "laporan-anak-apps-imh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431072597367:android:34987ad78518a31b3d7d72",
+        "android_client_info": {
+          "package_name": "com.imah.laporan.anak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431072597367-s32v9p379oh3f87lilausbeileumv0dn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtgttI14voGDU0EOGVr1EIXemL3bYk8EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431072597367-s32v9p379oh3f87lilausbeileumv0dn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
